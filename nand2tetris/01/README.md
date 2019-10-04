@@ -21,3 +21,5 @@
 14. DMux4Way -- out = dmux(in, sel, a,b,c,d)
 15. DMux8Way -- out = dmux(in, sel, a,b,c,d,e,f,g,h)
 ```
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Venn0110.svg/330px-Venn0110.svg.png)
